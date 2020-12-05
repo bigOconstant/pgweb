@@ -19,9 +19,13 @@ github.com/gin-gonic/gin
 github.com/gin-gonic/gin/binding
 github.com/gin-gonic/gin/json
 github.com/gin-gonic/gin/render
+# github.com/go-sql-driver/mysql v1.5.0
+## explicit
 # github.com/golang/protobuf v0.0.0-20170601230230-5a0f697c9ed9
 ## explicit
 github.com/golang/protobuf/proto
+# github.com/google/gofuzz v1.2.0
+## explicit
 # github.com/jessevdk/go-flags v1.4.0
 ## explicit
 github.com/jessevdk/go-flags
@@ -40,6 +44,8 @@ github.com/lib/pq/scram
 # github.com/mattn/go-isatty v0.0.2-0.20170307163044-57fdcb988a5c
 ## explicit
 github.com/mattn/go-isatty
+# github.com/mattn/go-sqlite3 v1.14.5
+## explicit
 # github.com/mitchellh/go-homedir v1.0.0
 ## explicit
 github.com/mitchellh/go-homedir
@@ -77,9 +83,15 @@ golang.org/x/crypto/internal/chacha20
 golang.org/x/crypto/internal/subtle
 golang.org/x/crypto/poly1305
 golang.org/x/crypto/ssh
+# golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
+## explicit
 # golang.org/x/sys v0.0.0-20190412213103-97732733099d
 golang.org/x/sys/cpu
 golang.org/x/sys/unix
+# gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
+## explicit
+# gopkg.in/go-playground/assert.v1 v1.2.1
+## explicit
 # gopkg.in/go-playground/validator.v8 v8.18.1
 ## explicit
 gopkg.in/go-playground/validator.v8
