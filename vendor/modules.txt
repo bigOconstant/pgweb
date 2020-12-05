@@ -1,0 +1,88 @@
+# github.com/BurntSushi/toml v0.3.1
+## explicit
+github.com/BurntSushi/toml
+# github.com/ScaleFT/sshkeys v0.0.0-20181112160850-82451a803681
+## explicit
+github.com/ScaleFT/sshkeys
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+github.com/davecgh/go-spew/spew
+# github.com/dchest/bcrypt_pbkdf v0.0.0-20150205184540-83f37f9c154a
+## explicit
+github.com/dchest/bcrypt_pbkdf
+# github.com/gin-contrib/sse v0.0.0-20170109093832-22d885f9ecc7
+## explicit
+github.com/gin-contrib/sse
+# github.com/gin-gonic/gin v1.3.0
+## explicit
+github.com/gin-gonic/gin
+github.com/gin-gonic/gin/binding
+github.com/gin-gonic/gin/json
+github.com/gin-gonic/gin/render
+# github.com/golang/protobuf v0.0.0-20170601230230-5a0f697c9ed9
+## explicit
+github.com/golang/protobuf/proto
+# github.com/jessevdk/go-flags v1.4.0
+## explicit
+github.com/jessevdk/go-flags
+# github.com/jmoiron/sqlx v0.0.0-20180614180643-0dae4fefe7c0
+## explicit
+github.com/jmoiron/sqlx
+github.com/jmoiron/sqlx/reflectx
+# github.com/json-iterator/go v0.0.0-20170829155851-36b14963da70
+## explicit
+github.com/json-iterator/go
+# github.com/lib/pq v1.1.1
+## explicit
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/mattn/go-isatty v0.0.2-0.20170307163044-57fdcb988a5c
+## explicit
+github.com/mattn/go-isatty
+# github.com/mitchellh/go-homedir v1.0.0
+## explicit
+github.com/mitchellh/go-homedir
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
+github.com/pmezard/go-difflib/difflib
+# github.com/sosedoff/pgweb v0.11.7
+## explicit
+github.com/sosedoff/pgweb/pkg/api
+github.com/sosedoff/pgweb/pkg/bookmarks
+github.com/sosedoff/pgweb/pkg/client
+github.com/sosedoff/pgweb/pkg/command
+github.com/sosedoff/pgweb/pkg/connection
+github.com/sosedoff/pgweb/pkg/data
+github.com/sosedoff/pgweb/pkg/history
+github.com/sosedoff/pgweb/pkg/shared
+github.com/sosedoff/pgweb/pkg/statements
+github.com/sosedoff/pgweb/pkg/util
+# github.com/stretchr/testify v1.2.2
+## explicit
+github.com/stretchr/testify/assert
+# github.com/tuvistavie/securerandom v0.0.0-20140719024926-15512123a948
+## explicit
+github.com/tuvistavie/securerandom
+# github.com/ugorji/go v0.0.0-20170215201144-c88ee250d022
+## explicit
+github.com/ugorji/go/codec
+# golang.org/x/crypto v0.0.0-20191029031824-8986dd9e96cf
+## explicit
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/curve25519
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/ed25519/internal/edwards25519
+golang.org/x/crypto/internal/chacha20
+golang.org/x/crypto/internal/subtle
+golang.org/x/crypto/poly1305
+golang.org/x/crypto/ssh
+# golang.org/x/sys v0.0.0-20190412213103-97732733099d
+golang.org/x/sys/cpu
+golang.org/x/sys/unix
+# gopkg.in/go-playground/validator.v8 v8.18.1
+## explicit
+gopkg.in/go-playground/validator.v8
+# gopkg.in/yaml.v2 v2.0.0-20160928153709-a5b47d31c556
+## explicit
+gopkg.in/yaml.v2
